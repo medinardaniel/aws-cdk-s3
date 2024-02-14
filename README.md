@@ -34,4 +34,4 @@ Specifically, CodeWhisperer was instrumental in generating the code necessary fo
 ## Deployment
 
 The image below shows the bucket was deployed.
-![Deployed S3 Bucket](./images/hellocdk-s3-deployed.png)
+![Deployed S3 Bucket](./hellocdk-s3-deployed.png)
